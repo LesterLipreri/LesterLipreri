@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LesterLipreri
-- 👀 I’m interested in trabajar de desarrolador web 
+- 👀 I’m interested in trabajar de desarrollador web 
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [...](https://twitter.com/LesterLipreri)
